@@ -1,0 +1,26 @@
+{
+  "name": "fpijs",
+  "version": "0.1.0",
+  "description": "Code listings from Functional Programming in JavaScript",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGhostHuCodes/FPiJS.git"
+  },
+  "author": "Yung-Jin (Joey)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGhostHuCodes/FPiJS/issues"
+  },
+  "homepage": "https://github.com/TheGhostHuCodes/FPiJS#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.4.3",
+    "lodash": "^4.17.5",
+    "ramda": "^0.25.0"
+  },
+  "dependencies": {}
+}
